@@ -2,6 +2,6 @@
 
 i am dhruv
 
-'''javascript
-console.log("Hello i am dhruv);
-'''
+```javascript
+console.log("Hello i am dhruv");
+```
